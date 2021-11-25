@@ -10,7 +10,12 @@ Some technologies I enjoy working with include Flutter, Android java, and Fireba
 
 ### Contributed
 [flutter_tindercard](https://pub.dev/packages/flutter_tindercard)
-### Skills
+
+[RxDart](https://github.com/ReactiveX/rxdart)
+
+[vertical_scrollable_tabview](https://github.com/wayne900204/vertical_scrollable_tabview)
+### GDG DevFest
+[gdg-kaohsiung-2021](https://gdg.community.dev/events/details/google-gdg-kaohsiung-presents-devfest-tainan-kaohsiung-2021/#)
 #### Major 
 [![Flutter](https://img.shields.io/badge/flutter-%233498DB.svg?&style=for-the-badge&logo=flutter&logoColor=white)](https://github.com/wayne900204/Flutter-Login-Firebase-Bloc)
 ![Dart](https://img.shields.io/badge/dart-%231DA1F2.svg?&style=for-the-badge&logo=dart&logoColor=white)
