@@ -1,7 +1,7 @@
 
-<h1 align="center">Hi 👋  I'm WenYeh </h1>
+<h1 style='text-align="left"'>Hi 👋  I'm WenYeh </h1>
 
-  <img src="https://github.com/wayne900204/wayne900204/blob/main/profile-img.png" align="right" width="25%"/>
+  <img src="https://github.com/wayne900204/wayne900204/blob/main/profile-img.png" style='text-align="right"' width="25%"/>
 I am a student from Taiwan and I am very interested in learning technology.
 <br>
 Some technologies I enjoy working with include Security, Flutter, Android java, and Firebase.
@@ -23,7 +23,7 @@ Some technologies I enjoy working with include Security, Flutter, Android java, 
 
 ## 🚀 Languages and Tools:
 
-<p align="left"> 
+<p style='text-align="left"'> 
     <a href="https://developer.android.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/android-studio.png"/> </a>
     <a href="https://www.java.com/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java.png"/> </a>
     <a href="https://kotlinlang.org/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/kotlin.png"/> </a> 
@@ -45,14 +45,14 @@ Some technologies I enjoy working with include Security, Flutter, Android java, 
 ## 📊 My Github Stats
 
 <br/>
-<a href="https://github.com/wayne900204"><img alt="Zubair Bhuian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wayne900204&show_icons=true&line_height=21&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800" /></a>
-<a href="https://github.com/wayne900204"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wayne900204&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8" /></a>
-<a href="https://github.com/wayne900204"><img alt="WenYeh's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=wayne900204&layout=compact&bg_color=ffffff&v=2" /></a>
-<a href="https://github.com/wayne900204/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=wayne900204&bg_color=ffffff&color=5BCDEC&line=5BCDEC&point=0D1117&hide_border=false" /></a>
+<p href="https://github.com/wayne900204"><img alt="Zubair Bhuian's Github Stats" src="https://github-readme-stats.vercel.app/api?username=wayne900204&show_icons=true&line_height=21&show_icons=true&theme=buefy&count_private=true&cache_seconds=1800" /></p>
+<p href="https://github.com/wayne900204"><img alt="Subham Raoniar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wayne900204&show_icons=true&theme=buefy&layout=compact&cache_seconds=1800&langs_count=8" /></p>
+<p href="https://github.com/wayne900204"><img alt="WenYeh's wakatime stats" src="https://github-readme-stats.vercel.app/api/wakatime?username=wayne900204&layout=compact&bg_color=ffffff&v=2" /></p>
+<p href="https://github.com/wayne900204/github-readme-activity-graph"><img alt="Subham Raoniar's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=wayne900204&bg_color=ffffff&color=5BCDEC&line=5BCDEC&point=0D1117&hide_border=false" /></p>
 
 
 ## 📫 Connect with me:
-<p align="left">
+<p style='text-align="left"'>
 
 <a href = "https://www.instagram.com/wenyeh02.04/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 <a href = "mailto:wayne900204@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png"/></a>
